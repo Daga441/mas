@@ -1,7 +1,7 @@
 // Funkcja dla przycisku "Yes", która może przekierować użytkownika na inną stronę lub wykonać jakąś akcję
 function nextPage() {
     // Na przykład przekierowanie na inną stronę
-    window.location.href = "https://www.facebook.com/royalkebab.przysucha/?locale=pl_PL"; // Tutaj wpisz URL strony, na którą chcesz przekierować
+    window.location.href = "https://www.facebook.com/marsimokebab/"; // Tutaj wpisz URL strony, na którą chcesz przekierować
 }
 
 // Funkcja dla przycisku "No", która zmienia położenie przycisku
